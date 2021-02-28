@@ -261,6 +261,10 @@ nav > ul > li > a:hover > span {
 
 
 }
+
+.fa-facebook{
+	font-size: 85px;
+}
 /*.overlay {
 	position:absolute;
 	bottom: 0;
