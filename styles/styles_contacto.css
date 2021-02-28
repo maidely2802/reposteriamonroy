@@ -1,0 +1,84 @@
+html{
+	font-size:62.5%;
+	 margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+	font-family: 'Handlee', cursive;
+	font-size: 16px;
+}
+.body{
+  background: #4fc3f7;
+}
+
+.form-register{
+  width: 400px;
+  background:  #F7C59C ;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-radius: 10px;
+  box-shadow: 7px 13px 37px #F97F14;
+}
+
+.titulo{
+  font-size: 26;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.controls{
+  width: 100%;
+  background: #F4E3D6;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 9px;
+  border: 1px solid #fdfefe;
+  font-size: 14px;
+  color:  #212f3d ;
+}
+
+.aref a:hover{
+  color: white;
+  text-decoration: none;
+}
+
+.form-register p{
+  height: 40px;
+  line-height: 40px;
+}
+
+.button{
+  width: 100%;
+  background:  #154360 ;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
+
+.button:hover{
+  padding: 12px;
+  background:  #F0A369;
+  color: #FEF6EF;
+}
+
+.button:active{
+  padding: 12px;
+  background: #F0A369;
+  color: #FEF6EF;
+}
+
+.font{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Modak', cursive;
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.center{
+  text-align: center;
+}
